@@ -1,4 +1,8 @@
-data/train.csv
+data/store.csv
+data/train_store.csv
+data/test_store.csv
 data/sample_submission.csv
 data/test.csv
 data/train.csv
+data/cleaned_train.csv
+data/cleaned_test.csv
